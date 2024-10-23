@@ -29,5 +29,3 @@ git clone https://github.com/YaSh8202/code-crafters.git
 
 ## ERD
 ![](https://raw.githubusercontent.com/yash8202/code-crafters/main/prisma/ERD.svg)
-
-test
