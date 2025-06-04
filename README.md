@@ -8,6 +8,7 @@ Code Crafters is a web platform that provides challenges for users who want to p
 - [Prisma](https://prisma.io)
 - [Tailwind CSS](https://tailwindcss.com)
 - [tRPC](https://trpc.io)
+- PostreSQL
 
 ## Getting Started
 To get started with this project, you will need to have Node.js and npm installed on your machine.
