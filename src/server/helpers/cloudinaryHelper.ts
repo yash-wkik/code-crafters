@@ -17,6 +17,7 @@ export const bufferUpload = async (buffer: Buffer) => {
       }
       resolve(result);
     });
+    
     const readStream = new Readable({
       read() {
         this.push(buffer);
