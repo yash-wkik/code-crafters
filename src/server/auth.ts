@@ -17,6 +17,7 @@ import { type User } from "@prisma/client";
  * @see https://next-auth.js.org/getting-started/typescript#module-augmentation
  */
 declare module "next-auth" {
+  
   interface Session extends DefaultSession {
     user: {
       id: string;
